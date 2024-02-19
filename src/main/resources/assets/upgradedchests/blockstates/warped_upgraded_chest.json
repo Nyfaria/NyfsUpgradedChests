@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "upgradedchests:block/warped_upgraded_chest"
+    }
+  }
+}

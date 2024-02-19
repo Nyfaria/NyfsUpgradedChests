@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "upgradedchests:block/birch_upgraded_chest"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "upgradedchests:block/oak_upgraded_chest"
+    }
+  }
+}
